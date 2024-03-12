@@ -1,0 +1,1 @@
+Run file : **uvicorn mama_api.main:app --reload**
